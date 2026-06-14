@@ -71,7 +71,7 @@ CyberSecurity_Lab
 
 ### Folder Structure Screenshot
 
-![Folder Structure](Screenshots/screenshots3.pn.jpeg)
+![Folder Structure](Screenshots/screenshots3.png.jpeg)
 
 ---
 
