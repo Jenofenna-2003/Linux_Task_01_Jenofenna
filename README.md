@@ -22,7 +22,7 @@ The objective of this task is to gain hands-on experience with the Linux operati
 
 ### Kali Linux Desktop
 
-![Kali Desktop](Screenshots/screenshots4.png)
+![Kali Desktop](Screenshots/screenshots4.png.jpeg)
 
 ### Terminal Window
 
@@ -51,7 +51,7 @@ The following commands were executed and verified:
 
 ### Navigation Commands Output
 
-![Navigation Commands](Screenshots/screenshots1.png)
+![Navigation Commands](Screenshots/screenshots1.png.jpeg)
 
 ---
 
@@ -71,7 +71,7 @@ CyberSecurity_Lab
 
 ### Folder Structure Screenshot
 
-![Folder Structure](Screenshots/screenshots3.png)
+![Folder Structure](Screenshots/screenshots3.pn.jpeg)
 
 ---
 
@@ -128,7 +128,7 @@ pwd
 
 ### System Information Output
 
-![System Information Output](Screenshots/screenshots2.png)
+![System Information Output](Screenshots/screenshots2.png.jpeg)
 
 ---
 
